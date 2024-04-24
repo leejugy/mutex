@@ -1,0 +1,7 @@
+../Core/Src/freertos.c:83:5:__io_putchar	1
+../Core/Src/freertos.c:88:6:HAL_UART_RxCpltCallback	1
+../Core/Src/freertos.c:94:6:HAL_GPIO_EXTI_Callback	2
+../Core/Src/freertos.c:102:6:counter	2
+../Core/Src/freertos.c:122:6:MX_FREERTOS_Init	1
+../Core/Src/freertos.c:174:6:StartDefaultTask	4
+../Core/Src/freertos.c:205:6:StartTask02	4
